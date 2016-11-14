@@ -1,12 +1,15 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
 PROJECT TITLE: club-court-booking-system
 PURPOSE OF PROJECT: practicing OO programming concepts in Java Developement
-VERSION or DATE:
-HOW TO START THIS PROJECT:
 AUTHORS: Mohammad Khan
-USER INSTRUCTIONS:
+
+
+Sport club court booking system – (https://github.com/Mohammad-Khan/Club-Court-Booking-System) 
+•   Project is based on OO Concepts in Java. This application enables the user to make bookings for a
+    court without encountering any clash, booking in the past dates and bookings out of general conditions
+•   Concepts exercised: OO Programing, Persistence, Inheritance, Console UI, some GUI, abstraction,
+    Exceptions handling, input format checks, file handling and collections
+•   Tools used: BlueJ, NetBeans
+
+
+
